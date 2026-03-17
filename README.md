@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Ganesan 👋
 
-<!--
-**ganesan-rengan/ganesan-rengan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year **AI & Data Science Student**
+💻 Python Developer | Data Analyst | ML & AI Enthusiast
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+🔹 **Music Popularity Intelligence**
+Analyzing music features and predicting song popularity using machine learning.
+
+🔹 **Responsible AI Framework for E-Governance**
+Fairness auditing, explainable AI, and predictive governance models.
+
+🔹 **TechMart Sales Analytics**
+Sales data ETL pipeline and analytics dashboard.
+
+---
+
+## 🛠 Skills
+
+* Python
+* Pandas
+* NumPy
+* Machine Learning
+* Data Visualization
+* Git & GitHub
+
+---
+
+## 📊 Interests
+
+* Artificial Intelligence
+* Machine Learning
+* Data Analytics
+* MLOps
+
+---
+
+⭐ Building real-world AI and data projects.
