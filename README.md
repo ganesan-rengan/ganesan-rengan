@@ -20,6 +20,10 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ganesan-rengan&layout=compact&theme=dark)
 
+## 📈 Contribution Activity
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ganesan-rengan&theme=github-dark)
+
 🔹 **Music Popularity Intelligence**
 Analyzing music features and predicting song popularity using machine learning.
 
@@ -57,3 +61,5 @@ Sales data ETL pipeline and analytics dashboard.
 
 📧 rganesan.dev@gmail.com  
 🌍 India
+
+![Profile Views](https://komarev.com/ghpvc/?username=ganesan-rengan&color=blue)
